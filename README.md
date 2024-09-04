@@ -12,7 +12,7 @@
 
   ### 🎓 동국대학교 경영정보학과 22학번 <br> 데이터사이언스소프트웨어 연계전공
 
-  ### 🦁 멋쟁이사자처럼 12기 FE
+  #### 🦁 멋쟁이사자처럼 12기 FE
  
   <br>
 
@@ -24,7 +24,9 @@
 
 
 <div align="center">
-  
+
+<br>
+
   ## 🛠 Skills 🛠
  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
