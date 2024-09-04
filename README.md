@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ParkSuhhyun&show_icons=true&theme=dracula"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Minn-Choi&show_icons=true&theme=dracula"/>
   
 ## 👋 Choi Min 👋 
   
@@ -26,7 +26,7 @@
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSuhhyun&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=10"/>
   
-  ## 🛠 SKILL 🛠
+  ## 🛠 Skills 🛠
  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
