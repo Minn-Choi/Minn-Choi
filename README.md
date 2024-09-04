@@ -5,24 +5,25 @@
 </div>
 
 <div align="center">
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Minn-Choi&show_icons=true&theme=dracula"/>
+
   
 ## 👋 Choi Min 👋 
   
 
-  ### 🎓 동국대학교 경영정보학과 22학번
-  ### 🎓 데이터사이언스소프트웨어 연계전공
+  ### 🎓 동국대학교 경영정보학과 22학번 <br> 데이터사이언스소프트웨어 연계전공
 
   ### 🦁 멋쟁이사자처럼 12기 FE
  
- 
+  <br>
+
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Minn-Choi&show_icons=true&theme=dracula"/>
+  
 </div>
 
 
+
+
 <div align="center">
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSuhhyun&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=10"/>
   
   ## 🛠 Skills 🛠
  
